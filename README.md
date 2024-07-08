@@ -1,23 +1,58 @@
-# Olá, me chamo Henrique, Sou um aspirante à Dev Python Back-end!
-**Tenho 14 anos, estudo programação desde os 12.**
-# Hard Skills: 
-<div>
-<img align="center" alt="Rick-Python" height="55" width="165" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-<img align="center" alt="Rick-Django" height="55" width="165" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/> 
-<img align="center" alt="Rick-Flask" height="55" width="165" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-<img align="center" alt="Rick-Linux" height="55" width="165" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img align="center" alt="Rick-VSCode" height="55" width="275" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-<img align="center" alt="Rick-Apache" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg"/>
-<div>
+<h1 align="left">Hey 👋 What's up?</h1>
 
-# Contatos:
+###
 
-<div> 
-  <a href="https://instagram.com/rick.queirozz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href ="mailto:henriquejorge1365@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/henrique-jorge-de-queiroz-6083a0303/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://dev.to/queirozz" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"></a>
-  <a href="https://medium.com/@zeccakut" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
+<h2 align="center">My name is Henrique, and I'm an aspiring Backend Dev from Santos, SP, Brazil</h2>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<h3 align="left">📚 I'm currently learning Python.<br>🎯 Goals: Learn Django and Flask.<br>🎲 Fun fact: I'm 14 years old and I study programming since I was 12.</h3>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=py" height="55" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=django" height="55" alt="django logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=flask" height="55" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/apache/D22128" height="55" alt="apache logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="55" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="55" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="55" alt="windows8 logo"  />
 </div>
 
-# Se quiser me conhecer melhor, considere ver o repositório ABOUT-ME---SOBRE-MIM
+###
+
+<h2 align="left">Contact</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/queirozz8/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="57" height="45" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/rick.queirozz/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="57" height="45" alt="instagram logo"  />
+  </a>
+  <a href="https://dev.to/queirozz" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="57" height="45" alt="devto logo"  />
+  </a>
+  <a href="https://medium.com/@zeccakut" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="57" height="45" alt="medium logo"  />
+  </a>
+</div>
+
+###
