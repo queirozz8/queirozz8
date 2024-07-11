@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="center">My name is Henrique, and I'm an aspiring Backend Dev from Santos, SP, Brazil</h2>
+<h2 align="center">My name is Henrique, and I'm an aspiring Backend Dev!</h2>
 
 ###
 
