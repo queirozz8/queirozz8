@@ -10,7 +10,7 @@
 
 ###
 
-<h3 align="left">📚 I'm currently learning Python.<br>🎯 Goals: Learn Django and Flask.<br>🎲 Fun fact: I'm 14 years old and I study programming since I was 12.</h3>
+<h3 align="left">📚 I'm currently learning Python.<br>🎯 Goals: Learn Django and Flask.<br></h3>
 
 ###
 
