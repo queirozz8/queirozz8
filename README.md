@@ -17,9 +17,9 @@
 <h2 align="left">Skills/Learning Objectives</h2>
 
 ###
-| Python | Django | Flask | Apache | Linux | Debian | Ubuntu | Arch | Kali |
-|--------|--------|-------|--------|-------|--------|--------|------|------|
-|  <img src="https://skillicons.dev/icons?i=py" height="70" alt="python logo"  /> |  <img src="https://skillicons.dev/icons?i=django" height="70" alt="django logo"  /> |  <img src="https://skillicons.dev/icons?i=flask" height="70" alt="flask logo"  /> |  <img src="https://cdn.simpleicons.org/apache/D22128" height="70" alt="apache logo"  /> |  <img src="https://skillicons.dev/icons?i=linux" height="70" alt="linux logo"  /> |   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="70" alt="debian logo"  /> | <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="70" alt="ubuntu logo" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" height="70" alt="Arch logo" /> | <img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/kalilinux/kalilinux-original-wordmark.svg" title="Linux" alt="Linux" width="70" height="70"/> |
+| Python | Django | Flask | Linux | Debian | Ubuntu | Arch Linux | Kali Linux| Apache |
+|--------|--------|-------|-------|--------|--------|------------|-----------|--------|
+<img src="https://skillicons.dev/icons?i=py" height="70" alt="python logo"  />|  <img src="https://skillicons.dev/icons?i=django" height="70" alt="django logo"  /> |  <img src="https://skillicons.dev/icons?i=flask" height="70" alt="flask logo"  /> | <img src="https://skillicons.dev/icons?i=linux" height="70" alt="linux logo"  /> | <img src="https://skillicons.dev/icons?i=debian" height="70"/> | <img src="https://skillicons.dev/icons?i=ubuntu" height="70"/> | <img src="https://skillicons.dev/icons?i=arch" height="70"/> | <img src="https://skillicons.dev/icons?i=kali" height="70"/> | <img src="https://cdn.simpleicons.org/apache/D22128" height="70" alt="apache logo"/> |
 
 ###
 
