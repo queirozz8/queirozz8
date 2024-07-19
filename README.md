@@ -10,7 +10,7 @@
 
 ###
 
-<h3 align="left">📚 I'm currently learning Python.<br>🎯 Goals: Learn Django and Flask.<br></h3>
+<h3 align="left">📚 I'm currently learning Python.<br>🎯 Goals: Learn Django and Flask, learn about Arch and Kali Linux.<br></h3>
 
 ###
 
