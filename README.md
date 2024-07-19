@@ -17,22 +17,9 @@
 <h2 align="left">Skills/Learning Objectives</h2>
 
 ###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=py" height="55" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=django" height="55" alt="django logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flask" height="55" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/apache/D22128" height="55" alt="apache logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="55" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="55" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="55" alt="windows8 logo"  />
-</div>
+| Python | Django | Flask | Apache | Linux | Debian | Ubuntu | Arch | Kali |
+|--------|--------|-------|--------|-------|--------|--------|------|------|
+|  <img src="https://skillicons.dev/icons?i=py" height="70" alt="python logo"  /> |  <img src="https://skillicons.dev/icons?i=django" height="70" alt="django logo"  /> |  <img src="https://skillicons.dev/icons?i=flask" height="70" alt="flask logo"  /> |  <img src="https://cdn.simpleicons.org/apache/D22128" height="70" alt="apache logo"  /> |  <img src="https://skillicons.dev/icons?i=linux" height="70" alt="linux logo"  /> |   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="70" alt="debian logo"  /> | <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="70" alt="ubuntu logo" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" height="70" alt="Arch logo" /> | <img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/kalilinux/kalilinux-original-wordmark.svg" title="Linux" alt="Linux" width="70" height="70"/> |
 
 ###
 
