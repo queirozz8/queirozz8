@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="center">My name is Henrique, and I'm an aspiring Web Dev!</h2>
+<h2 align="center">My name is Henrique, and I'm an aspiring Full-Stack Web Dev!</h2>
 
 ###
 
