@@ -10,7 +10,7 @@
 
 ###
 
-<h3 align="left">📚 I'm currently learning HTML and CSS.<br>🎯 Goals: Learn Javascript, Flask, Arch and Kali Linux.<br></h3>
+<h3 align="left">📚 I'm currently learning HTML and CSS.<br>🎯 Goals: Learn JavaScript, Flask, Arch and Kali Linux.<br></h3>
 
 ###
 
