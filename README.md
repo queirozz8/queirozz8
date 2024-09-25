@@ -17,9 +17,9 @@
 <h2 align="left">Skills/Learning Objectives</h2>
 
 ###
-| Python | Django | Flask | HTML5 | CSS3 | Linux | Debian | Arch Linux | Kali Linux| Apache |
-|--------|--------|-------|-------|------|-------|--------|------------|-----------|--------|
-<img src="https://skillicons.dev/icons?i=py" height="70" alt="python logo"  />|  <img src="https://skillicons.dev/icons?i=django" height="70" alt="django logo"  /> |  <img src="https://skillicons.dev/icons?i=flask" height="75" alt="flask logo"  /> | <img src="https://skillicons.dev/icons?i=html" height="70" /> | <img src="https://skillicons.dev/icons?i=css" height="75"/> | <img src="https://skillicons.dev/icons?i=linux" height="70" alt="linux logo"  /> | <img src="https://skillicons.dev/icons?i=debian" height="70"/> | <img src="https://skillicons.dev/icons?i=arch" height="70"/> | <img src="https://skillicons.dev/icons?i=kali" height="70"/> | <img src="https://cdn.simpleicons.org/apache/D22128" height="70" alt="apache logo"/> |
+| Python | HTML5 | CSS3 | JavaScript | Linux | Debian | Arch Linux | Kali Linux| Apache |
+|--------|-------|------|------------|-------|--------|------------|-----------|--------|
+<img src="https://skillicons.dev/icons?i=py" height="70" alt="python logo"  />| <img src="https://skillicons.dev/icons?i=html" height="70" /> | <img src="https://skillicons.dev/icons?i=css" height="75"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> | <img src="https://skillicons.dev/icons?i=linux" height="70" alt="linux logo"  /> | <img src="https://skillicons.dev/icons?i=debian" height="70"/> | <img src="https://skillicons.dev/icons?i=arch" height="70"/> | <img src="https://skillicons.dev/icons?i=kali" height="70"/> | <img src="https://cdn.simpleicons.org/apache/D22128" height="70" alt="apache logo"/> |
 
 ###
 
