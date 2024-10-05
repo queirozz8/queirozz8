@@ -18,7 +18,7 @@
 
 ###
 | Python | HTML5 | CSS3 | JavaScript * | Linux Shell | Debian | Arch * | Kali * | Apache * |
-|--------|-------|------|------------|-------|--------|------------|-----------|--------|
+|--------|-------|------|--------------|-------------|--------|--------|--------|----------|
 <img src="https://skillicons.dev/icons?i=py" height="70" alt="python logo"  />| <img src="https://skillicons.dev/icons?i=html" height="70" /> | <img src="https://skillicons.dev/icons?i=css" height="75"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> | <img src="https://skillicons.dev/icons?i=linux" height="70" alt="linux logo"  /> | <img src="https://skillicons.dev/icons?i=debian" height="70"/> | <img src="https://skillicons.dev/icons?i=arch" height="70"/> | <img src="https://skillicons.dev/icons?i=kali" height="70"/> | <img src="https://cdn.simpleicons.org/apache/D22128" height="70" alt="apache logo"/> |
 
 ###
