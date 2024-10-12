@@ -17,9 +17,9 @@
 <h2 align="left">Skills/Learning Objectives</h2>
 
 ###
-| Python | HTML5 | CSS3 | JavaScript* | Linux Shell | Debian | Arch* | Kali* | Apache* |
-|--------|-------|------|--------------|-------------|--------|--------|--------|----------|
-<img src="https://skillicons.dev/icons?i=py" height="70" alt="python logo"  />| <img src="https://skillicons.dev/icons?i=html" height="70" /> | <img src="https://skillicons.dev/icons?i=css" height="75"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> | <img src="https://skillicons.dev/icons?i=linux" height="70" alt="linux logo"  /> | <img src="https://skillicons.dev/icons?i=debian" height="70"/> | <img src="https://skillicons.dev/icons?i=arch" height="70"/> | <img src="https://skillicons.dev/icons?i=kali" height="70"/> | <img src="https://cdn.simpleicons.org/apache/D22128" height="70" alt="apache logo"/> |
+| JavaScript | HTML5 | CSS3 | Python | Linux Shell | Debian | Arch* | Kali* | Apache* |
+|------------|-------|------|--------|-------------|--------|-------|------|----------|
+<img src="https://skillicons.dev/icons?i=js" height="80" alt="JavaScript logo" /> | <img src="https://skillicons.dev/icons?i=html" height="80" alt="HTML logo"/> | <img src="https://skillicons.dev/icons?i=css" height="80" alt="CSS logo"/> | <img src="https://skillicons.dev/icons?i=py" height="80" alt="python logo"  /> | <img src="https://skillicons.dev/icons?i=linux" height="80" alt="linux logo"  /> | <img src="https://skillicons.dev/icons?i=debian" height="80"/> | <img src="https://skillicons.dev/icons?i=arch" height="80"/> | <img src="https://skillicons.dev/icons?i=kali" height="80"/> | <img src="https://cdn.simpleicons.org/apache/D22128" height="80" alt="apache logo"/> |
 
 <h3>(*) - Tecnologies that i'm studying or I want to study.<h3>
 
@@ -31,16 +31,16 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/queirozz8/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="57" height="45" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="67" height="55" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/rick.queirozz/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="57" height="45" alt="instagram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="67" height="55" alt="instagram logo"  />
   </a>
   <a href="https://dev.to/queirozz" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="57" height="45" alt="devto logo"  />
+    <img src="https://skillicons.dev/icons?i=devto" width="57" height="45" alt="Devto Icon">
   </a>
   <a href="https://medium.com/@zeccakut" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="57" height="45" alt="medium logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="67" height="55" alt="medium logo"  />
   </a>
 </div>
 
