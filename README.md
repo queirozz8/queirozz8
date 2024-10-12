@@ -37,7 +37,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="67" height="55" alt="instagram logo"  />
   </a>
   <a href="https://dev.to/queirozz" target="_blank">
-    <img src="https://skillicons.dev/icons?i=devto" width="57" height="45" alt="Devto Icon">
+    <img src="https://skillicons.dev/icons?i=devto" width="57" height="55" alt="Devto Icon">
   </a>
   <a href="https://medium.com/@zeccakut" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="67" height="55" alt="medium logo"  />
