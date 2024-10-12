@@ -17,9 +17,9 @@
 <h2 align="left">Skills/Learning Objectives</h2>
 
 ###
-| JavaScript | HTML5 | CSS3 | Python | Linux Shell | Debian | Arch* | Kali* | Apache* |
+| JavaScript* | HTML5 | CSS3 | Python | Linux Shell | Debian | Arch* | Kali* | Apache* |
 |------------|-------|------|--------|-------------|--------|-------|------|----------|
-<img src="https://skillicons.dev/icons?i=js" height="80" alt="JavaScript logo" /> | <img src="https://skillicons.dev/icons?i=html" height="80" alt="HTML logo"/> | <img src="https://skillicons.dev/icons?i=css" height="80" alt="CSS logo"/> | <img src="https://skillicons.dev/icons?i=py" height="80" alt="python logo"  /> | <img src="https://skillicons.dev/icons?i=linux" height="80" alt="linux logo"  /> | <img src="https://skillicons.dev/icons?i=debian" height="80"/> | <img src="https://skillicons.dev/icons?i=arch" height="80"/> | <img src="https://skillicons.dev/icons?i=kali" height="80"/> | <img src="https://cdn.simpleicons.org/apache/D22128" height="80" alt="apache logo"/> |
+<img src="https://skillicons.dev/icons?i=js" height="80" alt="JavaScript logo"> | <img src="https://skillicons.dev/icons?i=html" height="80" alt="HTML logo"> | <img src="https://skillicons.dev/icons?i=css" height="80" alt="CSS logo"> | <img src="https://skillicons.dev/icons?i=py" height="80" alt="python logo"> | <img src="https://skillicons.dev/icons?i=linux" height="80" alt="linux logo"> | <img src="https://skillicons.dev/icons?i=debian" height="80"> | <img src="https://skillicons.dev/icons?i=arch" height="80"> | <img src="https://skillicons.dev/icons?i=kali" height="80"> | <img src="https://cdn.simpleicons.org/apache/D22128" height="80" alt="apache logo"> |
 
 <h3>(*) - Tecnologies that i'm studying or I want to study.<h3>
 
