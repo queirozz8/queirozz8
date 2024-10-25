@@ -10,7 +10,7 @@
 
 ###
 
-<h3 align="left">📚 I'm currently learning JavaScript.<br>🎯 Goals: Learn Node.js, Arch and Kali Linux.<br></h3>
+<h3 align="left">📚 I'm currently learning JavaScript.<br>🎯 Goals: Learn Node.js, Next.js, Arch and Kali Linux.<br></h3>
 
 ###
 
