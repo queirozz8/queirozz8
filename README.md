@@ -19,9 +19,9 @@
 <h3>(*) - Tecnologies that i'm studying or I want to study.<h3>
 
 ###
-| JavaScript* |  Node.js* | HTML5 | CSS3 | Tailwind* | Python | Linux Shell | Arch* | Nginx* |
-|-------------|-----------|-------|------|-----------|--------|-------------|-------|--------|
-<img src="https://skillicons.dev/icons?i=js" height="80" alt="JavaScript logo"> | <img src="https://skillicons.dev/icons?i=nodejs" height="80" alt="Node.js logo"> | <img src="https://skillicons.dev/icons?i=html" height="80" alt="HTML logo"> | <img src="https://skillicons.dev/icons?i=css" height="80"> | <img src="https://skillicons.dev/icons?i=tailwind" height="80"> | <img src="https://skillicons.dev/icons?i=py" height="80" alt="python logo"> | <img src="https://skillicons.dev/icons?i=linux" height="80" alt="linux logo"> | <img src="https://skillicons.dev/icons?i=arch" height="80"> | <img src="https://skillicons.dev/icons?i=nginx" height="80" alt="Nginx logo"> |
+| JavaScript* |  Node.js* | HTML5 | CSS3 | Tailwind* | Python | Linux Shell | Nginx* |
+|-------------|-----------|-------|------|-----------|--------|-------------|--------|
+<img src="https://skillicons.dev/icons?i=js" height="80" alt="JavaScript logo"> | <img src="https://skillicons.dev/icons?i=nodejs" height="80" alt="Node.js logo"> | <img src="https://skillicons.dev/icons?i=html" height="80" alt="HTML logo"> | <img src="https://skillicons.dev/icons?i=css" height="80"> | <img src="https://skillicons.dev/icons?i=tailwind" height="80"> | <img src="https://skillicons.dev/icons?i=py" height="80" alt="python logo"> | <img src="https://skillicons.dev/icons?i=linux" height="80" alt="linux logo"> | <img src="https://skillicons.dev/icons?i=nginx" height="80" alt="Nginx logo"> |
 
 
 ###
