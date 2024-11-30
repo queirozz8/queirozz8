@@ -18,8 +18,8 @@
   <img src="https://skillicons.dev/icons?i=html" height="80" alt="HTML logo">
   <img src="https://skillicons.dev/icons?i=css" height="80">
   <img src="https://skillicons.dev/icons?i=tailwind" height="80">
-  <img src="https://skillicons.dev/icons?i=express" height="80" alt="Express logo">
   <img src="https://skillicons.dev/icons?i=react" height="80" alt="ReactJS logo">
+  <img src="https://skillicons.dev/icons?i=express" height="80" alt="Express logo">
   <img src="https://skillicons.dev/icons?i=nodejs" height="80" alt="Node.js logo">
   <img src="https://skillicons.dev/icons?i=py" height="80" alt="Python logo">
   <img src="https://skillicons.dev/icons?i=linux" height="80" alt="Linux logo">
