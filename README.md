@@ -13,7 +13,7 @@
 
 ###
 
-<h2 align="center">Competencies<h2>
+<h2 align="center">Skills<h2>
   <img src="https://skillicons.dev/icons?i=js" height="65" alt="JavaScript logo">
   <img src="https://skillicons.dev/icons?i=html" height="65" alt="HTML logo">
   <img src="https://skillicons.dev/icons?i=css" height="65">
