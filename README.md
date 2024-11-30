@@ -14,18 +14,18 @@
 ###
 
 <h2 align="center">Competencies<h2>
-  <img src="https://skillicons.dev/icons?i=js" height="60" alt="JavaScript logo">
-  <img src="https://skillicons.dev/icons?i=html" height="60" alt="HTML logo">
-  <img src="https://skillicons.dev/icons?i=css" height="60">
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60">
-  <img src="https://skillicons.dev/icons?i=react" height="60" alt="ReactJS logo">
-  <img src="https://skillicons.dev/icons?i=express" height="60" alt="Express logo">
-  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="Node.js logo">
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="Python logo">
-  <img src="https://skillicons.dev/icons?i=linux" height="60" alt="Linux logo">
-  <img src="https://skillicons.dev/icons?i=vercel" height="60" alt="Vercel logo">
-  <img src="https://skillicons.dev/icons?i=nginx" height="60" alt="Nginx logo">
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="NextJS logo">
+  <img src="https://skillicons.dev/icons?i=js" height="63" alt="JavaScript logo">
+  <img src="https://skillicons.dev/icons?i=html" height="63" alt="HTML logo">
+  <img src="https://skillicons.dev/icons?i=css" height="63">
+  <img src="https://skillicons.dev/icons?i=tailwind" height="63">
+  <img src="https://skillicons.dev/icons?i=react" height="63" alt="ReactJS logo">
+  <img src="https://skillicons.dev/icons?i=express" height="63" alt="Express logo">
+  <img src="https://skillicons.dev/icons?i=nodejs" height="63" alt="Node.js logo">
+  <img src="https://skillicons.dev/icons?i=py" height="63" alt="Python logo">
+  <img src="https://skillicons.dev/icons?i=linux" height="63" alt="Linux logo">
+  <img src="https://skillicons.dev/icons?i=vercel" height="63" alt="Vercel logo">
+  <img src="https://skillicons.dev/icons?i=nginx" height="63" alt="Nginx logo">
+  <img src="https://skillicons.dev/icons?i=nextjs" height="63" alt="NextJS logo">
 
 <h2 align="left">Contact</h2>
 
