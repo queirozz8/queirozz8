@@ -14,11 +14,11 @@
 ###
 
 <h2 align="center">Skills<h2>
-  <img src="https://skillicons.dev/icons?i=js" height="65" alt="JavaScript logo">
   <img src="https://skillicons.dev/icons?i=html" height="65" alt="HTML logo">
   <img src="https://skillicons.dev/icons?i=css" height="65">
-  <img src="https://skillicons.dev/icons?i=tailwind" height="65">
+  <img src="https://skillicons.dev/icons?i=js" height="65" alt="JavaScript logo">
   <img src="https://skillicons.dev/icons?i=react" height="65" alt="ReactJS logo">
+  <img src="https://skillicons.dev/icons?i=tailwind" height="65">
   <img src="https://skillicons.dev/icons?i=express" height="65" alt="Express logo">
   <img src="https://skillicons.dev/icons?i=nodejs" height="65" alt="Node.js logo">
   <img src="https://skillicons.dev/icons?i=py" height="65" alt="Python logo">
