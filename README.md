@@ -9,8 +9,6 @@
 <h4 align="center">I am passionate about technology and its power to solve a wide range of problems.</h4>
 <p align="center">To know more about me, you can acess my LinkedIn: <a href="https://www.linkedin.com/in/queirozz8/" target="blank" style="color: white; text-decoration: underline;">here.</a></p>
 
-<h3 align="left">📚 I'm currently learning Node.js, Git and GitHub.</h3>
-
 ###
 
 <h2 align="center">Skills<h2>
