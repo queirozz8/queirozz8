@@ -24,7 +24,7 @@
   <img src="https://skillicons.dev/icons?i=py" height="65" alt="Python logo">
   <img src="https://skillicons.dev/icons?i=linux" height="65" alt="Linux logo">
   <img src="https://skillicons.dev/icons?i=vercel" height="65" alt="Vercel logo">
-  <img src="https://skillicons.dev/icons?i=nginx" height="65" alt="Nginx logo">
+  <img src="https://skillicons.dev/icons?i=git" height="65" alt="Git logo">
   <img src="https://skillicons.dev/icons?i=nextjs" height="65" alt="NextJS logo">
 
 <h2 align="left">Contact</h2>
