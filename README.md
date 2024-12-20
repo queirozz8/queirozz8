@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=6959CD&textBg=false&fontColor=FFFFFF&fontSize=18&descAlignY=31&descAlign=29&section=header&reversal=false"/>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Mulish&size=30&pause=1000&color=976FEC&&width=600&lines=I'm+Henrique,+Front-end+web+Developer.)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Mulish&size=30&pause=1000&color=976FEC&&width=600&lines=I'm+Henrique,+web+Developer.)
 <h4 align="center">I am passionate about technology and its power to solve a wide range of problems.</h4>
 <p align="center">To know more about me, you can acess my LinkedIn: <a href="https://www.linkedin.com/in/queirozz8/" target="blank" style="color: white; text-decoration: underline;">here.</a></p>
 
