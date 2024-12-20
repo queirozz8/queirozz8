@@ -27,7 +27,7 @@
 
 
 <a href="https://www.linkedin.com/in/queirozz8/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedIn&logoColor=0073B1)" alt="linkedin logo" height="25">
+  <img src="https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedIn&logoColor=1572B6" alt="linkedin logo" height="25">
 </a>
 <a href="https://www.instagram.com/rick.queirozz/" target="_blank">
   <img alt="Static Badge" src="https://img.shields.io/badge/Instagram-000000?style=flat-square&logo=instagram&logoColor=%23DC3C58" height="25">
