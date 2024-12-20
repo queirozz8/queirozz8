@@ -4,32 +4,33 @@
 <h4 align="center">I am passionate about technology and its power to solve a wide range of problems.</h4>
 <p align="center">To know more about me, you can acess my LinkedIn: <a href="https://www.linkedin.com/in/queirozz8/" target="blank" style="color: white; text-decoration: underline;">here.</a></p>
 
-###
 
 <h2 align="center">Skills<h2>
-  <img src="https://skillicons.dev/icons?i=html" height="65" alt="HTML logo">
-  <img src="https://skillicons.dev/icons?i=css" height="65">
-  <img src="https://skillicons.dev/icons?i=js" height="65" alt="JavaScript logo">
-  <img src="https://skillicons.dev/icons?i=react" height="65" alt="ReactJS logo">
-  <img src="https://skillicons.dev/icons?i=tailwind" height="65">
-  <img src="https://skillicons.dev/icons?i=express" height="65" alt="Express logo">
-  <img src="https://skillicons.dev/icons?i=nodejs" height="65" alt="Node.js logo">
-  <img src="https://skillicons.dev/icons?i=py" height="65" alt="Python logo">
-  <img src="https://skillicons.dev/icons?i=linux" height="65" alt="Linux logo">
-  <img src="https://skillicons.dev/icons?i=vercel" height="65" alt="Vercel logo">
-  <img src="https://skillicons.dev/icons?i=git" height="65" alt="Git logo">
-  <img src="https://skillicons.dev/icons?i=nextjs" height="65" alt="NextJS logo">
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML5-black?style=flat-square&logo=html5" height="30">
+  <img src="https://img.shields.io/badge/CSS3-black?style=flat-square&logo=css3&logoColor=1572B6" height="30">
+  <img src="https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript" height="30" alt="JavaScript logo">
+  <img src="https://img.shields.io/badge/React-black?style=flat-square&logo=react" height="30" alt="ReactJS logo">
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-black?style=flat-square&logo=tailwind-css" height="30">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express" height="30">
+  <img src="https://img.shields.io/badge/Node.js-black?style=flat-square&logo=node.js" height="30" alt="Node.js logo">
+  <img src="https://img.shields.io/badge/Python-black?style=flat-square&logo=python" height="30" alt="Python logo">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white" height="30">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel" height="30">
+  <img src="https://img.shields.io/badge/Git-black?style=flat-square&logo=git" height="30" alt="Git logo">
+  <img src="https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js" height="30" alt="NextJS logo">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Vite-000000?style=flat-square&logo=vite" height="30">
+</div>
 
+  
 <h2 align="left">Contact</h2>
-
-###
 
 
 <a href="https://www.linkedin.com/in/queirozz8/" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="67" height="55" alt="linkedin logo"/>
+  <img src="https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedIn&logoColor=0073B1)" alt="linkedin logo" height="25">
 </a>
 <a href="https://www.instagram.com/rick.queirozz/" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="67" height="55" alt="instagram logo"/>
+  <img alt="Static Badge" src="https://img.shields.io/badge/Instagram-000000?style=flat-square&logo=instagram&logoColor=%23DC3C58" height="25">
 </a>
 <p>📧 E-mail: henriquejorge1365@gmail.com</p>
 
