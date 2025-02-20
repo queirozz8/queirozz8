@@ -10,6 +10,7 @@
   <img src="https://img.shields.io/badge/HTML5-black?style=flat-square&logo=html5" height="30">
   <img src="https://img.shields.io/badge/CSS3-black?style=flat-square&logo=css3&logoColor=1572B6" height="30">
   <img src="https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript" height="30" alt="JavaScript logo">
+  <img src="https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript" height="30" alt="TypeScript logo">
   <img src="https://img.shields.io/badge/React-black?style=flat-square&logo=react" height="30" alt="ReactJS logo">
   <img src="https://img.shields.io/badge/Tailwind%20CSS-black?style=flat-square&logo=tailwind-css" height="30">
   <img alt="Static Badge" src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express" height="30">
