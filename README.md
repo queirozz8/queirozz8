@@ -8,7 +8,7 @@
 <h2 align="center">Skills<h2>
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-black?style=flat-square&logo=html5" height="30">
-  <img src="https://img.shields.io/badge/CSS3-black?style=flat-square&logo=css3&logoColor=1572B6" height="30">
+  <img src="https://img.shields.io/badge/CSS-black?style=flat-square&logo=css&logoColor=1572B6" height="30">
   <img src="https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript" height="30" alt="JavaScript logo">
   <img src="https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript" height="30" alt="TypeScript logo">
   <img src="https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js" height="30" alt="NextJS logo">
