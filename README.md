@@ -6,22 +6,12 @@
 ---
 
 <h2 align="center">Skills<h2>
-<div align="center">
-  <img src="https://img.shields.io/badge/HTML5-black?style=flat-square&logo=html5" height="30">
-  <img src="https://img.shields.io/badge/CSS-black?style=flat-square&logo=css&logoColor=1572B6" height="30">
-  <img src="https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript" height="30" alt="JavaScript logo">
-  <img src="https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript" height="30" alt="TypeScript logo">
-  <img src="https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js" height="30" alt="NextJS logo">
-  <img src="https://img.shields.io/badge/React-black?style=flat-square&logo=react" height="30" alt="ReactJS logo">
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-black?style=flat-square&logo=tailwind-css" height="30">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express" height="30">
-  <img src="https://img.shields.io/badge/Node.js-black?style=flat-square&logo=node.js" height="30" alt="Node.js logo">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white" height="30">
-  <img src="https://img.shields.io/badge/Python-black?style=flat-square&logo=python" height="30" alt="Python logo">
-  <img src="https://img.shields.io/badge/Git-black?style=flat-square&logo=git" height="30" alt="Git logo">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Vite-000000?style=flat-square&logo=vite" height="30">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel" height="30">
-</div>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,nextjs,react,tailwind,express,nodejs,linux,python,git" width="1000" />
+  </a>
+</p>
 
 ---
 
