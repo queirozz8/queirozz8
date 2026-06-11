@@ -1,6 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=5D5D5B&section=header"/>
 <img width="100%" src="https://readme-typing-svg.herokuapp.com?font=SUSE&size=30&pause=2000&color=D7D7D6&center=true&vCenter=true&width=1000&height=60&lines=I'm+Henrique,+Full-Stack+web+Developer.+How+you're+doing?"/>
 <h4>I’m a developer passionate about technology and its power to solve real-world problems.</h4>
+<h4>Working at <a href="https://www.engemedical.com/">Engemedical</a>.</h4>
 
 <strong>I have experience in Full-Stack development, building complete projects that integrate Frontend, Backend, databases, and automations. My main focus is creating scalable and intelligent solutions, especially in the field of SaaS and process automation</strong>
 
