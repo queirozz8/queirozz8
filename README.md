@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skills.syvixor.com/api/icons?i=html,css,js,ts,nextjs,react,tailwind,express,nodejs,n8n,linux,python,git,nginx,postgresql,mongodb" width="1000" />
+    <img src="https://skills.syvixor.com/api/icons?i=html,css,js,ts,nextjs,react,tailwind,express,nodejs,n8n,linux,python,git,nginx,postgresql,mongodb,redis" width="1000" />
   </a>
 </p>
 
